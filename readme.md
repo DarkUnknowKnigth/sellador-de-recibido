@@ -32,7 +32,7 @@ Pillow (PIL): Para la creación y renderizado de la imagen del sello.
 
 Clona este repositorio:
 
-git clone [https://github.com/DarkUnknowKnigth/sello-pdf-python.git](https://github.com/DarkUnknowKnigth/sello-pdf-python.git)
+git clone [https://github.com/DarkUnknowKnigth/sellador-de-recibido](https://github.com/DarkUnknowKnigth/sellador-de-recibido)
 cd sello-pdf-python
 
 
